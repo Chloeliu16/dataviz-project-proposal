@@ -25,6 +25,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 <img width="1024" height="778" alt="image" src="https://github.com/user-attachments/assets/89230aac-6683-4284-a2c5-c1fa5d1cc850" />
 I envision the following visualizations:  
+
 - **Scatter Plot (Year vs Rating):** shows how ratings evolve over time, with colors indicating genres.
   
 - **Bar Chart (Genre vs Count):** shows the frequency of each genre in the Top 250 list.

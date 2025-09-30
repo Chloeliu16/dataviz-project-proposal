@@ -55,7 +55,7 @@ I’ve created several proof-of-concept visualizations of this data:
      link: https://vizhub.com/Chloeliu16/5991cbc470794158af8cd92b26dc511f
 
 
-3. **Week 5: IMDB Top 250 Movies Histogram: Movie Runtime Distribution**  
+3. **Week 5: IMDB Top 250 Movies Histogram: Distribution of Movie Runtimes by Genre**  
    - X-axis: Runtime (minutes)  
    - Y-axis: Frequency
     <img width="1708" height="880" alt="image" src="https://github.com/user-attachments/assets/4ac66a0e-1a4e-4617-b822-abdb19628dba" />

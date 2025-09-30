@@ -70,6 +70,31 @@ I’ve created several proof-of-concept visualizations of this data:
      <img width="1710" height="886" alt="image" src="https://github.com/user-attachments/assets/356ce068-3b8c-4320-8215-29b10e440e6a" />
      link: https://vizhub.com/Chloeliu16/9a1bbc9656944370a6d436b22f083d94
 
+**Week6 Updates:**
+
+For this week’s progress, I refined the visualization of the IMDB Top 250 movies dataset.
+Originally, the dataset contained too many genres, which made the color encoding overly crowded and difficult to interpret. To improve clarity, I simplified the genre representation by:
+   - Keeping only the Top 6 most frequent genres
+   - Grouping all remaining genres into a single “Other” category
+   - Updating all plots that used color to represent genre accordingly
+
+1. **IMDB Top 250 Movies Scatter Plot: Year vs Rating**
+   added a legend
+   <img width="1722" height="890" alt="image" src="https://github.com/user-attachments/assets/a09d00ac-0686-42d9-95a6-0c2b2a3656b9" />
+
+2. **MDB Top 250 Movies Bar Chart: Genre vs Count**  
+   Made two improvements to the Genre Frequency Distribution bar chart:
+      - Color Gradient – Adjusted the bar colors to a smooth gradient, which makes the visualization more visually appealing and easier to distinguish between genres.
+      - Interactivity – Added tooltips so that when hovering over each bar, the chart displays the genre name, count, and percentage of total movies.
+   <img width="1706" height="714" alt="image" src="https://github.com/user-attachments/assets/b50cc2b4-7991-49b0-b7ac-058905516daa" />
+
+3. **IMDB Top 250 Movies Histogram: Movie Runtime Distribution**
+   Stacked histogram, where each bar is divided by genre. This allows us to see not only the overall distribution of runtimes but also how different genres contribute within each runtime interval.
+   <img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/1199effd-4394-4199-b3ca-3d158a4939ff" />
+
+4. **IMDB Top 250 Movies Bubble Chart: Runtime Trends Over Time**
+   added a legend
+   <img width="1720" height="896" alt="image" src="https://github.com/user-attachments/assets/f33183e7-7116-4144-a0d8-6ac6613da080" />
 
 ## Open Questions
 

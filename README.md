@@ -96,6 +96,12 @@ Originally, the dataset contained too many genres, which made the color encoding
    added a legend
    <img width="1720" height="896" alt="image" src="https://github.com/user-attachments/assets/f33183e7-7116-4144-a0d8-6ac6613da080" />
 
+**Week7 Updates:**
+This week, I implemented a hierarchical tree visualization using D3.js to represent the structure of the IMDb Top 250 Movies dataset.
+The visualization organizes movies by Year → Genre → Title, focusing on the Top 10 years with the most films in the list.
+
+5. **IMDB Movie Hierarchy Tree**  
+
 ## Open Questions
 
 - Should I enrich the dataset with additional attributes (e.g., continent of production, awards) to explore more diverse patterns?  

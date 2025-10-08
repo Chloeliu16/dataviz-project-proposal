@@ -97,11 +97,11 @@ Originally, the dataset contained too many genres, which made the color encoding
    <img width="1720" height="896" alt="image" src="https://github.com/user-attachments/assets/f33183e7-7116-4144-a0d8-6ac6613da080" />
 
 **Week7 Updates:**
-This week, I implemented a hierarchical tree visualization using D3.js to represent the structure of the IMDb Top 250 Movies dataset.
+This week, I implemented a hierarchical tree visualization to represent the structure of the IMDb Top 250 Movies dataset.
 The visualization organizes movies by Year → Genre → Title, focusing on the Top 10 years with the most films in the list.
 
 5. **IMDB Movie Hierarchy Tree**  
-   <img width="2000" height="1582" alt="image" src="https://github.com/user-attachments/assets/e4998977-7fc9-4a4f-8a7d-7bcbf52e30c0" />
+   <img width="2058" height="1594" alt="image" src="https://github.com/user-attachments/assets/088fb3a0-7322-4605-add4-fa3ce9bcd49b" />
 
 ## Open Questions
 

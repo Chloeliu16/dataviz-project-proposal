@@ -101,6 +101,7 @@ This week, I implemented a hierarchical tree visualization using D3.js to repres
 The visualization organizes movies by Year → Genre → Title, focusing on the Top 10 years with the most films in the list.
 
 5. **IMDB Movie Hierarchy Tree**  
+   <img width="2000" height="1582" alt="image" src="https://github.com/user-attachments/assets/e4998977-7fc9-4a4f-8a7d-7bcbf52e30c0" />
 
 ## Open Questions
 

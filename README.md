@@ -9,7 +9,14 @@ The data I propose to visualize for my project is the **IMDB Top 250 Movies Data
 
 The dataset contains attributes such as movie title, year, rating, genre, runtime, directors, and writers.  
 
-⚠️ Note: Although the dataset includes `budget` and `box_office`, these values are not consistently converted to USD (some are synthetic or in other currencies). To avoid misleading results, I will not use these two fields.  
+⚠️ Note: Although the dataset includes `budget` and `box_office`, these values are not consistently converted to USD (some are synthetic or in other currencies). To avoid misleading results, I will not use these two fields. 
+
+## Vizhub link
+https://vizhub.com/Chloeliu16/68fd63ab31834932859af2b8ef7f4c02
+https://vizhub.com/Chloeliu16/cb22bf5cab0a4d40b838d6356dfe102a
+https://vizhub.com/Chloeliu16/685348dea1dc481888dd4a025803bfdb
+https://vizhub.com/Chloeliu16/53bdc8f9875141c484467cac71e70844
+https://vizhub.com/Chloeliu16/bb0c18ce5f3d466080a4248f3730b779
 
 ## Questions & Tasks
 

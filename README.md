@@ -113,7 +113,7 @@ This enhancement makes the visualization more intuitive and engaging, helping vi
 1. **Week 9: IMDB Top 250 Movies Movie Bubble Chart: Movie Runtime Trends Over Time**
    <img width="1712" height="890" alt="image" src="https://github.com/user-attachments/assets/fda675e1-bdcd-4067-bc7b-ad19dbaa30af" />
 2. **Week 9: IMDB Top 250 Movies Histogram: Distribution of Movie Runtimes by Genre**
-   <img width="1632" height="876" alt="image" src="https://github.com/user-attachments/assets/b96e91ef-aa8d-46ae-aef9-748d64b085b8" />
+   <img width="1650" height="874" alt="image" src="https://github.com/user-attachments/assets/410d03d1-43a3-46ed-a494-1da014eab0df" />
 3. **Week 9: IMDB Top 250 Movies Scatter Plot: Year VS Rating**
    <img width="1700" height="880" alt="image" src="https://github.com/user-attachments/assets/e04a3e81-a13d-4e7d-b4a3-3e9129e2c239" />
 

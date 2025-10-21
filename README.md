@@ -103,6 +103,18 @@ The visualization organizes movies by Year → Genre → Title, focusing on the 
 5. **IMDB Movie Hierarchy Tree**  
    <img width="2058" height="1594" alt="image" src="https://github.com/user-attachments/assets/088fb3a0-7322-4605-add4-fa3ce9bcd49b" />
 
+**Week9 Updates:**
+This week, I continued working on my visualization project and focused on improving the use of color based on this week’s class topic.
+Specifically, I implemented an interactive color legend, which allows users to highlight or filter specific categories directly through the legend.
+This enhancement makes the visualization more intuitive and engaging, helping viewers explore patterns more easily.
+
+1. **Week 9: IMDB Top 250 Movies Movie Bubble Chart: Movie Runtime Trends Over Time**
+   <img width="1712" height="890" alt="image" src="https://github.com/user-attachments/assets/fda675e1-bdcd-4067-bc7b-ad19dbaa30af" />
+2. **Week 9: IMDB Top 250 Movies Histogram: Distribution of Movie Runtimes by Genre**
+   <img width="1528" height="894" alt="image" src="https://github.com/user-attachments/assets/30d53691-3f37-4578-b6ea-934b5b06c6e9" />
+3. **Week 9: IMDB Top 250 Movies Scatter Plot: Year VS Rating**
+   <img width="1706" height="892" alt="image" src="https://github.com/user-attachments/assets/36548ab0-1c41-4662-b5a6-2378f1ad3dd3" />
+
 ## Open Questions
 
 - Should I enrich the dataset with additional attributes (e.g., continent of production, awards) to explore more diverse patterns?  

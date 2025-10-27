@@ -1,5 +1,6 @@
 # Data Visualization Project
-
+# From Week 10
+For older progress logs, please see the [ARCHIVE.md](./ARCHIVE.md) file.
 ## Data
 
 The data I propose to visualize for my project is the **IMDB Top 250 Movies Dataset**.  

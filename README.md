@@ -15,6 +15,8 @@ The dataset contains attributes such as movie title, year, rating, genre, runtim
 ## Vizhub link
 https://vizhub.com/Chloeliu16/c9f5883d81b3488585f8b478b9bbfcdd
 https://vizhub.com/Chloeliu16/cfa35d0c6f0a4453ac5300baf637f675
+https://vizhub.com/Chloeliu16/7dcc7f3e9e814f5b94d91f0ebb401adc
+
 
 ## Prototypes
 
@@ -22,6 +24,9 @@ https://vizhub.com/Chloeliu16/cfa35d0c6f0a4453ac5300baf637f675
 
 This week, I continued developing my IMDB Top 250 Movies visualizations and focused on adding more interactive and analytical features based on this week’s theme of interaction.
 
+**vizhub link:**
+https://vizhub.com/Chloeliu16/c9f5883d81b3488585f8b478b9bbfcdd
+https://vizhub.com/Chloeliu16/cfa35d0c6f0a4453ac5300baf637f675
 1. **Week 10: IMDB Top 250 Movies Scatter Plot: Rating vs. Runtime**
 This is a newly created visualization for Week 10.
 Users can now hover over items in the legend to highlight the corresponding movie genre.
@@ -35,9 +40,29 @@ In this updated version, I added trend lines showing the average rating per genr
 Each line can be clicked to highlight it, which also displays the average rating values for each decade.
 <img width="1708" height="880" alt="image" src="https://github.com/user-attachments/assets/ac88ace5-42e8-4fe5-845c-5374255bf324" />
 
+**Week11 Updates:**
+
+During Week 11, I focused on enhancing the interactivity and usability of the IMDB Top 250 Movies visualizations. Two major improvements were made:
+1. A decade-based filtering control was added to the scatter plot, allowing users to explore movie runtime and rating patterns across different time periods.
+2. A numeric feedback feature was implemented in the histogram, where hovering over each genre in the legend now displays the corresponding number of movies in each bar.
+These updates make the visualizations more dynamic and informative, enabling users to better understand temporal and categorical trends within the dataset.
+**vizhub link:**
+https://vizhub.com/Chloeliu16/b0f5116303cd4a01abb0209703eb4f63
+https://vizhub.com/Chloeliu16/7dcc7f3e9e814f5b94d91f0ebb401adc
+
+1. **Week 11: IMDB Top 250 Movies Scatter Plot: Rating vs. Runtime**
+<img width="922" height="482" alt="image" src="https://github.com/user-attachments/assets/e8c71171-c4f1-4ddd-96e7-0a6cf65d21a9" />
+In this scatter plot, I added a “Filter by Decade” dropdown menu (covering the 1920s–2020s).
+When a user selects a specific decade, the visualization dynamically updates to show only movies released during that period.
+This addition allows users to easily analyze how movie length and rating distributions have evolved over time.
+
+2. **Week 11: IMDB Top 250 Movies Histogram: Distribution of Movie Runtimes by Genre**
+<img width="900" height="478" alt="image" src="https://github.com/user-attachments/assets/f2bee0fe-9a6f-437f-8757-710ab4b73ce5" />
+For the histogram, I enhanced the legend hover interaction to include real-time numeric information.
+When hovering over a genre in the legend, the corresponding bars are highlighted, and each bar now displays the exact number of movies directly on top.
+This provides a clearer understanding of how each genre contributes to different runtime intervals, improving both readability and analytical insight.
 
 ## Open Questions
-
 
   
 ## Milestones

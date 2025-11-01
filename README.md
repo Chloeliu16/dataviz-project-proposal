@@ -46,6 +46,7 @@ During Week 11, I focused on enhancing the interactivity and usability of the IM
 1. A decade-based filtering control was added to the scatter plot, allowing users to explore movie runtime and rating patterns across different time periods.
 2. A numeric feedback feature was implemented in the histogram, where hovering over each genre in the legend now displays the corresponding number of movies in each bar.
 These updates make the visualizations more dynamic and informative, enabling users to better understand temporal and categorical trends within the dataset.
+
 **vizhub link:**
 https://vizhub.com/Chloeliu16/b0f5116303cd4a01abb0209703eb4f63
 https://vizhub.com/Chloeliu16/7dcc7f3e9e814f5b94d91f0ebb401adc

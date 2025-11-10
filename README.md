@@ -134,9 +134,9 @@ It provides a high-level overview of how production output varies over time and 
 
 ---
 
-## 🎥 Short Demo Video  
+## Short Demo Video  
 
-> *(To be added after recording)*  
+> (https://www.youtube.com/watch?v=Daf6X2w5S1M) 
 > In this 2-minute walkthrough, I introduce the dataset, highlight interactive features, and summarize the main findings from the IMDB Top 250 movie analysis.
 
 ---

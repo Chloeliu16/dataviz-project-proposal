@@ -66,6 +66,28 @@ For the histogram, I enhanced the legend hover interaction to include real-time 
 When hovering over a genre in the legend, the corresponding bars are highlighted, and each bar now displays the exact number of movies directly on top.
 This provides a clearer understanding of how each genre contributes to different runtime intervals, improving both readability and analytical insight.
 
+**Week13 Updates:**
+During Week 13, I made significant improvements to my IMDB Top 250 Movies visualization project based on the feedback provided by a classmate. First, I consolidated all previously created visualizations into a single VizHub file to provide a more organized and cohesive presentation. This restructuring made the entire dashboard easier to navigate and more consistent in style.
+
+For the Year vs Rating Scatter Plot, I added regression lines and enhanced the filter functionality to support more flexible and interactive exploration. I also refined the overall layout to ensure better spacing, alignment, and readability across all five visualizations. The user interaction experience has been improved through clearer hover effects, smoother transitions, and better color encoding.
+      
+The five visualizations included in the updated dashboard are:
+      IMDB Top 250 Movies Scatter Plot: Rating vs Runtime
+      IMDB Top 250 Movies Scatter Plot: Year vs Rating (with regression lines added)
+      IMDB Top 250 Movies: Distribution of Movie Runtimes
+      IMDB Top 250 Movies Bar Chart: Genre vs Count
+      Hierarchy Tree: Year → Genre → Movie Structure
+Overall, Week 13 focused on integration, refinement, and improved interactivity, resulting in a more polished and comprehensive data exploration tool.
+<img width="1460" height="766" alt="image" src="https://github.com/user-attachments/assets/f4221f5b-8914-4885-b32a-6ed75e4a72dc" />
+
+<img width="1462" height="754" alt="image" src="https://github.com/user-attachments/assets/045eb3c2-66bf-4c41-970a-92f8d0792fe7" />
+
+<img width="1462" height="752" alt="image" src="https://github.com/user-attachments/assets/19e945db-85aa-48b2-b659-5debd4d5ec5e" />
+
+<img width="1454" height="756" alt="image" src="https://github.com/user-attachments/assets/94a027ee-5cdd-4b33-92d1-65605cfe8cd8" />
+
+<img width="1464" height="750" alt="image" src="https://github.com/user-attachments/assets/4075c448-862f-41e5-86f0-044864b4ab5b" />
+
 ## Open Questions
 
   

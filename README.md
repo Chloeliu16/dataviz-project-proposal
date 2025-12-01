@@ -5,25 +5,24 @@
 
 ## Overview  
 
-This project visualizes data from the **IMDB Top 250 Movies Dataset**, exploring relationships between **movie ratings, genres, release years, and runtimes**.  
+This project visualizes data from **the IMDB Top 250 Movies dataset**, exploring patterns across multiple movie attributes, including **ratings, genres, release years, runtimes, and other relevant features**.
 
-By creating interactive D3 visualizations, I aimed to uncover how movies across different decades compare in popularity, length, and audience reception — and how these characteristics have evolved over time.  
+Through interactive D3 visualizations, the dashboard allows users to explore how movies across different decades compare in popularity, length, and audience reception — and how these characteristics have evolved over time.
 
-**Live Visualizations:**  
-- [Scatter Plot: Rating vs. Runtime](#scatter-plot-rating-vs-runtime)  
-- [Histogram: Runtime Distribution by Genre](#histogram-runtime-distribution-by-genre)  
-- [Scatter Plot: Year vs. Rating](#scatter-plot-year-vs-rating)  
-- [Genre Frequency Distribution](#genre-frequency-distribution)  
-- [Movie Hierarchy Tree](#movie-hierarchy-tree)  
+Users can switch between five visualizations using tabs at the top. Each chart highlights a different perspective, supported by filters, tooltips, legends, and trend lines.
 
----
 
 ## Motivation  
 
-Movies are cultural artifacts that reflect both audience taste and artistic trends.  
-I wanted to explore **how genres, ratings, and runtimes have changed through decades**, and whether certain time periods consistently produce higher-rated films.  
+Movies are cultural artifacts reflecting artistic trends and audience preferences. This project explores:
 
-This visualization project not only satisfies course objectives in **interactive data visualization** but also serves as a storytelling tool for film lovers and data enthusiasts alike.
+   · How ratings, genres, and runtimes vary across decades
+   
+   · Which eras produced the highest-rated films
+   
+   · Storytelling patterns within highly acclaimed movies
+
+The goal is to create intuitive, interactive visual analytics for both film lovers and data enthusiasts.
 
 ---
 
@@ -55,73 +54,86 @@ This visualization project not only satisfies course objectives in **interactive
 
 ## Key Visualizations and Analysis  
 
-### Week 12: IMDB Top 250 Movies Scatter Plot — Rating vs. Runtime  
-[View on VizHub →](https://vizhub.com/Chloeliu16/c9975b18a46646839846cfb21ab9ff8a)
+This dashboard presents five interactive visualizations based on the IMDb Top 250 Movies dataset. Users can switch between the charts using the tabs at the top of the page. Each visualization offers a different perspective on the data—from exploring relationships between ratings, runtimes, and release years, to examining genre distributions and identifying the most prominent years and films through a hierarchical tree. Interactive features such as filters, tooltips, legends, and trend lines allow users to explore the dataset in a detailed and intuitive way.
 
-<img width="1718" height="888" alt="image" src="https://github.com/user-attachments/assets/804eac60-3db8-4ed6-89d7-903bae69981c" />
+### Live Demo:
+**Week 14: IMDB Top 250 Movies – Interactive Visualization Dashboard**
+[View on VizHub →](https://vizhub.com/Chloeliu16/0eff415f8619464fa12ff1f995a8341d)
 
-**Analysis:**  
-Overall, high-rated movies tend to have runtimes between **80–180 minutes**, which also covers most films in the dataset.  
-This pattern is **not strongly related to genre or release year**, suggesting that excellent movies across all decades share similar lengths.  
+**Plot1: IMDB Top 250 Movies Scatter Plot: Rating vs. Runtime**
+This scatter plot illustrates the relationship between movie ratings and runtimes within the IMDb Top 250 dataset. The horizontal axis represents the rating, while the vertical axis shows the runtime. A decade-based filter on the right allows users to explore how movies from different eras are distributed. The interactive legend highlights the distribution of each genre and displays its corresponding regression line when hovered over. Additionally, hovering over any data point reveals detailed information about the movie it represents, including the title, director, and release year, making the exploration more informative and intuitive.
+<br>
+<img width="1212" height="634" alt="image" src="https://github.com/user-attachments/assets/b2a9b3cf-64df-4134-909f-586bf76da080" />
+<br>
+<img width="1214" height="640" alt="image" src="https://github.com/user-attachments/assets/1340c8e7-8286-4a59-b48f-2c3513e2c98a" />
+<br>
+<img width="1218" height="640" alt="image" src="https://github.com/user-attachments/assets/8a894ab0-3859-4f44-ba99-d75fe6773344" />
+<br>
 
----
+**Plot2: IMDB Top 250 Movies Scatter Plot: Year vs. Rating**
+This scatter plot shows how movie ratings in the IMDb Top 250 vary across different release years. The horizontal axis represents the release year, while the vertical axis shows the movie rating. A decade-based filter on the right allows users to explore the distribution of movies within each ten-year period. By clicking the “Show Trend Lines” button, users can display the average rating of each genre for every decade, providing a clear view of long-term trends. Additionally, hovering over any genre in the legend highlights the distribution of movies belonging to that genre, making it easier to compare how different genres perform over time.
+<br>
+<img width="1218" height="640" alt="image" src="https://github.com/user-attachments/assets/b77dd70e-7da6-4dd0-94c4-ee0f909530db" />
+<br>
+<img width="1220" height="634" alt="image" src="https://github.com/user-attachments/assets/6d818423-131e-45bc-bc8e-1fc9f94e0eea" />
+<br>
+<img width="1220" height="638" alt="image" src="https://github.com/user-attachments/assets/c260835a-db2a-4423-954d-e82f08b8c721" />
+<br>
 
-### Week 12: IMDB Top 250 Movies Histogram — Distribution of Movie Runtimes by Genre  
-[View on VizHub →](https://vizhub.com/Chloeliu16/4ac30a89b604471d860d86ae1e510bb5)
+**Plot3: IMDB Top 250 Movies – Distribution of Movie Runtimes**
+This stacked bar chart visualizes how movie runtimes are distributed within the IMDb Top 250. The horizontal axis represents runtime, while the vertical axis shows the number of movies. Each bar is divided into colored segments that correspond to different genres, allowing a clear comparison of genre composition across runtime ranges. Hovering over any segment reveals detailed information, including the specific genre and the number of movies it contributes. As with the other charts, the decade-based filter on the right enables users to explore how runtime distributions vary across different time periods.
+<br>
+<img width="1216" height="624" alt="image" src="https://github.com/user-attachments/assets/cb1a6110-57f9-4a89-9c20-fdf4489c6efd" />
+<br>
+<img width="1214" height="634" alt="image" src="https://github.com/user-attachments/assets/081d4f78-33f6-4c8d-9f15-c5d0cd824858" />
+<br>
 
-<img width="1722" height="896" alt="image" src="https://github.com/user-attachments/assets/88466a36-93c1-416b-9883-6461f18b0ea1" />
+**Plot4: IMDB Top 250 Movies Bar Chart: Genre vs. Count**
+This bar chart presents the number of movies in each genre within the IMDb Top 250 dataset. The horizontal axis shows the genres, while the vertical axis represents the movie count. When hovering over any bar, the chart displays both the exact number of movies and the percentage that genre contributes to the entire dataset. As with the other visualizations, a decade-based filter on the right allows users to explore how genre distributions shift across different ten-year periods.
+<br>
+<img width="1214" height="630" alt="image" src="https://github.com/user-attachments/assets/1aef14a8-3586-4001-9bd8-18850cd4a6c0" />
+<br>
+<img width="1218" height="634" alt="image" src="https://github.com/user-attachments/assets/6a874ff2-69ab-433d-a65a-a6d6d32283d3" />
+<br>
 
-**Analysis:**  
-Most Top 250 movies fall within **120–140 minutes**, making this the most common range for popular films.  
-This reinforces the observation that audience-preferred storytelling lengths tend to cluster around the two-hour mark.
+**Plot5: IMDB Top 250 Movies – Hierarchy Tree**
+This hierarchical tree visualization highlights the ten years with the highest number of movies in the IMDb Top 250. The first level displays the selected years, the second level breaks each year down by genre, and the third level lists individual movie titles within each genre. This structure allows users to quickly understand which years contribute most to the dataset and how genres and specific films are distributed within those peak years.
+<br>
+<img width="1196" height="642" alt="image" src="https://github.com/user-attachments/assets/f6256424-7f32-4dc5-887f-fbcdc4ca9983" />
+<br>
 
----
 
-### Week 12: IMDB Top 250 Movies Scatter Plot — Year vs. Rating  
-[View on VizHub →](https://vizhub.com/Chloeliu16/b471e703263e45d1bf1ea740140a2497)
-
-<img width="1720" height="890" alt="image" src="https://github.com/user-attachments/assets/9a059487-cb25-45d7-8c3c-c37c0290e7f3" />
-
-**Analysis:**  
-Movies rated above **9.0** appear only sporadically, while most ratings are concentrated between **8.1–8.4**.  
-The scatter plot and **Average Rating Trends by Genre per Decade** line chart both reveal this consistent clustering pattern, suggesting stability in audience scoring behavior over time.  
-
----
-
-### Week 12: IMDb Top 250 Movies — Genre Frequency Distribution  
-[View on VizHub →](https://vizhub.com/Chloeliu16/04d4e2b7e9734b48853e142e2f04e441)
-
-<img width="1726" height="822" alt="image" src="https://github.com/user-attachments/assets/f82565e6-67c2-46db-9153-12dca42b346b" />
-
-**Analysis:**  
-Among all genres, **Drama** overwhelmingly dominates the Top 250 list.  
-It highlights that emotionally driven narratives have universal appeal and are consistently recognized for their storytelling quality.
-
----
-
-### Week 7: IMDB Movie Hierarchy Tree  
-[View on VizHub →](https://vizhub.com/Chloeliu16/ab019dd7f6704c7bafd73d80dc1c9e15)
-
-<img width="1380" height="816" alt="image" src="https://github.com/user-attachments/assets/d6c55b97-d2ed-4c79-9bff-a2e01fcb1ee9" />
-
-**Analysis:**  
-This hierarchical visualization summarizes the **top ten years with the most movies** and their **corresponding genres**.  
-It provides a high-level overview of how production output varies over time and which genres dominate each era.  
-
----
 
 ## Insights and Takeaways  
 
-- **Drama** remains the most frequent and consistently high-rated genre.  
-- Most acclaimed movies cluster between **80–180 minutes** in runtime.  
-- Genre diversity increases significantly after the **1990s**.
+Across all five visualizations, several consistent patterns emerge from the IMDb Top 250 dataset:
+
+**1. Runtime Patterns Are Highly Consistent**
+Most high-rated movies fall within 80–180 minutes, with the most common range around 120–140 minutes.
+This trend remains stable across genres and decades, suggesting that the two-hour format is a universally preferred storytelling length.
+
+**2. Ratings Show Strong Central Clustering**
+The majority of films are tightly clustered between 8.1 and 8.4 on IMDb.
+Ratings above 9.0 are rare and scattered across decades, indicating that exceptionally high ratings are outliers rather than tied to specific periods or genres.
+Decade-based trend lines confirm that audience scoring behavior has remained consistent over time.
+
+**3. Drama Dominates the Top 250**
+Drama is by far the most frequent genre in the dataset.
+This reflects the enduring appeal of emotionally driven, narrative-focused films and their consistent recognition in top movie rankings.
+
+**4. Genre Diversity Expands After the 1990s**
+Hierarchical and distribution visualizations show that movie genres become more varied in the late 20th century.
+The post-1990 era features a broader mix of genres, reflecting evolving audience interests and film industry growth.
+
+**5. Certain Years Contribute Disproportionately**
+The hierarchy tree highlights the top ten most productive years, showing that certain periods (e.g., mid-90s and early 2000s) produced an unusually high number of highly rated films.
+Within these peak years, genre dominance varies, with Drama remaining central but accompanied by increasingly diverse genres.
 
 ---
 
-## Next Steps  
+## Future Work  
 
-- Incorporate **Rotten Tomatoes** or **Box Office Mojo** data for cross-platform analysis.  
-- Create a unified **interactive dashboard** combining all five visualizations.  
+- In future work, we plan to retrieve the country of origin for each movie and visualize the geographic distribution of the IMDb Top 250 on an interactive world map. This will allow users to explore which regions produce the most highly rated films.
 
 ---
 

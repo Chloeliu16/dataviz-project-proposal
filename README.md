@@ -61,6 +61,7 @@ This dashboard presents five interactive visualizations based on the IMDb Top 25
 [View on VizHub →](https://vizhub.com/Chloeliu16/0eff415f8619464fa12ff1f995a8341d)
 
 **Plot1: IMDB Top 250 Movies Scatter Plot: Rating vs. Runtime**
+
 This scatter plot illustrates the relationship between movie ratings and runtimes within the IMDb Top 250 dataset. The horizontal axis represents the rating, while the vertical axis shows the runtime. A decade-based filter on the right allows users to explore how movies from different eras are distributed. The interactive legend highlights the distribution of each genre and displays its corresponding regression line when hovered over. Additionally, hovering over any data point reveals detailed information about the movie it represents, including the title, director, and release year, making the exploration more informative and intuitive.
 <br>
 <img width="1212" height="634" alt="image" src="https://github.com/user-attachments/assets/b2a9b3cf-64df-4134-909f-586bf76da080" />
@@ -71,6 +72,7 @@ This scatter plot illustrates the relationship between movie ratings and runtime
 <br>
 
 **Plot2: IMDB Top 250 Movies Scatter Plot: Year vs. Rating**
+
 This scatter plot shows how movie ratings in the IMDb Top 250 vary across different release years. The horizontal axis represents the release year, while the vertical axis shows the movie rating. A decade-based filter on the right allows users to explore the distribution of movies within each ten-year period. By clicking the “Show Trend Lines” button, users can display the average rating of each genre for every decade, providing a clear view of long-term trends. Additionally, hovering over any genre in the legend highlights the distribution of movies belonging to that genre, making it easier to compare how different genres perform over time.
 <br>
 <img width="1218" height="640" alt="image" src="https://github.com/user-attachments/assets/b77dd70e-7da6-4dd0-94c4-ee0f909530db" />
@@ -81,6 +83,7 @@ This scatter plot shows how movie ratings in the IMDb Top 250 vary across differ
 <br>
 
 **Plot3: IMDB Top 250 Movies – Distribution of Movie Runtimes**
+
 This stacked bar chart visualizes how movie runtimes are distributed within the IMDb Top 250. The horizontal axis represents runtime, while the vertical axis shows the number of movies. Each bar is divided into colored segments that correspond to different genres, allowing a clear comparison of genre composition across runtime ranges. Hovering over any segment reveals detailed information, including the specific genre and the number of movies it contributes. As with the other charts, the decade-based filter on the right enables users to explore how runtime distributions vary across different time periods.
 <br>
 <img width="1216" height="624" alt="image" src="https://github.com/user-attachments/assets/cb1a6110-57f9-4a89-9c20-fdf4489c6efd" />
@@ -89,6 +92,7 @@ This stacked bar chart visualizes how movie runtimes are distributed within the 
 <br>
 
 **Plot4: IMDB Top 250 Movies Bar Chart: Genre vs. Count**
+
 This bar chart presents the number of movies in each genre within the IMDb Top 250 dataset. The horizontal axis shows the genres, while the vertical axis represents the movie count. When hovering over any bar, the chart displays both the exact number of movies and the percentage that genre contributes to the entire dataset. As with the other visualizations, a decade-based filter on the right allows users to explore how genre distributions shift across different ten-year periods.
 <br>
 <img width="1214" height="630" alt="image" src="https://github.com/user-attachments/assets/1aef14a8-3586-4001-9bd8-18850cd4a6c0" />
@@ -97,6 +101,7 @@ This bar chart presents the number of movies in each genre within the IMDb Top 2
 <br>
 
 **Plot5: IMDB Top 250 Movies – Hierarchy Tree**
+
 This hierarchical tree visualization highlights the ten years with the highest number of movies in the IMDb Top 250. The first level displays the selected years, the second level breaks each year down by genre, and the third level lists individual movie titles within each genre. This structure allows users to quickly understand which years contribute most to the dataset and how genres and specific films are distributed within those peak years.
 <br>
 <img width="1196" height="642" alt="image" src="https://github.com/user-attachments/assets/f6256424-7f32-4dc5-887f-fbcdc4ca9983" />

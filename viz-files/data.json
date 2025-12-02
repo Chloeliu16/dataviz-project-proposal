@@ -1,0 +1,420 @@
+{
+  "name": "Movies",
+  "children": [
+    {
+      "name": "1995",
+      "children": [
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "Se7en"
+            },
+            {
+              "name": "The Usual Suspects"
+            },
+            {
+              "name": "Casino"
+            },
+            {
+              "name": "La haine"
+            }
+          ]
+        },
+        {
+          "name": "Animation",
+          "children": [
+            {
+              "name": "Toy Story"
+            }
+          ]
+        },
+        {
+          "name": "Biography",
+          "children": [
+            {
+              "name": "Braveheart"
+            }
+          ]
+        },
+        {
+          "name": "Action",
+          "children": [
+            {
+              "name": "Heat"
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Before Sunrise"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2004",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Eternal Sunshine of the Spotless Mind"
+            },
+            {
+              "name": "Million Dollar Baby"
+            },
+            {
+              "name": "Before Sunset"
+            }
+          ]
+        },
+        {
+          "name": "Biography",
+          "children": [
+            {
+              "name": "Downfall"
+            },
+            {
+              "name": "Hotel Rwanda"
+            }
+          ]
+        },
+        {
+          "name": "Animation",
+          "children": [
+            {
+              "name": "Howl's Moving Castle"
+            },
+            {
+              "name": "The Incredibles"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1957",
+      "children": [
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "12 Angry Men"
+            },
+            {
+              "name": "Witness for the Prosecution"
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Paths of Glory"
+            },
+            {
+              "name": "Wild Strawberries"
+            },
+            {
+              "name": "The Seventh Seal"
+            }
+          ]
+        },
+        {
+          "name": "Adventure",
+          "children": [
+            {
+              "name": "The Bridge on the River Kwai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2003",
+      "children": [
+        {
+          "name": "Action",
+          "children": [
+            {
+              "name": "The Lord of the Rings: The Return of the King"
+            },
+            {
+              "name": "Oldboy"
+            },
+            {
+              "name": "Kill Bill: Vol. 1"
+            },
+            {
+              "name": "Pirates of the Caribbean: The Curse of the Black Pearl"
+            }
+          ]
+        },
+        {
+          "name": "Animation",
+          "children": [
+            {
+              "name": "Finding Nemo"
+            }
+          ]
+        },
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "Memories of Murder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1999",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Fight Club"
+            },
+            {
+              "name": "American Beauty"
+            },
+            {
+              "name": "The Sixth Sense"
+            }
+          ]
+        },
+        {
+          "name": "Action",
+          "children": [
+            {
+              "name": "The Matrix"
+            }
+          ]
+        },
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "The Green Mile"
+            }
+          ]
+        },
+        {
+          "name": "Animation",
+          "children": [
+            {
+              "name": "The Iron Giant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2019",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Parasite"
+            }
+          ]
+        },
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "Joker"
+            }
+          ]
+        },
+        {
+          "name": "Action",
+          "children": [
+            {
+              "name": "Avengers: Endgame"
+            },
+            {
+              "name": "1917"
+            },
+            {
+              "name": "Ford v Ferrari"
+            }
+          ]
+        },
+        {
+          "name": "Animation",
+          "children": [
+            {
+              "name": "Klaus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2009",
+      "children": [
+        {
+          "name": "Adventure",
+          "children": [
+            {
+              "name": "Inglourious Basterds"
+            }
+          ]
+        },
+        {
+          "name": "Comedy",
+          "children": [
+            {
+              "name": "3 Idiots"
+            }
+          ]
+        },
+        {
+          "name": "Animation",
+          "children": [
+            {
+              "name": "Up"
+            },
+            {
+              "name": "Mary and Max"
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "The Secret in Their Eyes"
+            }
+          ]
+        },
+        {
+          "name": "Biography",
+          "children": [
+            {
+              "name": "Hachi: A Dog's Tale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "1975",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "One Flew Over the Cuckoo's Nest"
+            }
+          ]
+        },
+        {
+          "name": "Adventure",
+          "children": [
+            {
+              "name": "Monty Python and the Holy Grail"
+            },
+            {
+              "name": "Barry Lyndon"
+            },
+            {
+              "name": "Jaws"
+            },
+            {
+              "name": "Dersu Uzala"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2011",
+      "children": [
+        {
+          "name": "Biography",
+          "children": [
+            {
+              "name": "The Intouchables"
+            }
+          ]
+        },
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "A Separation"
+            },
+            {
+              "name": "The Help"
+            }
+          ]
+        },
+        {
+          "name": "Action",
+          "children": [
+            {
+              "name": "Warrior"
+            }
+          ]
+        },
+        {
+          "name": "Adventure",
+          "children": [
+            {
+              "name": "Harry Potter and the Deathly Hallows: Part 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2007",
+      "children": [
+        {
+          "name": "Drama",
+          "children": [
+            {
+              "name": "Like Stars on Earth"
+            },
+            {
+              "name": "There Will Be Blood"
+            }
+          ]
+        },
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "No Country for Old Men"
+            }
+          ]
+        },
+        {
+          "name": "Animation",
+          "children": [
+            {
+              "name": "Ratatouille"
+            }
+          ]
+        },
+        {
+          "name": "Adventure",
+          "children": [
+            {
+              "name": "Into the Wild"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

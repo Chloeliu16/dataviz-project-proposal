@@ -138,7 +138,7 @@ Within these peak years, genre dominance varies, with Drama remaining central bu
 
 ## Future Work  
 
-- In future work, we plan to retrieve the country of origin for each movie and visualize the geographic distribution of the IMDb Top 250 on an interactive world map. This will allow users to explore which regions produce the most highly rated films.
+- In future work, I plan to retrieve the country of origin for each movie and visualize the geographic distribution of the IMDb Top 250 on an interactive world map. This will allow users to explore which regions produce the most highly rated films.
 
 ---
 
@@ -153,7 +153,7 @@ Within these peak years, genre dominance varies, with Drama remaining central bu
 
 ## Short Demo Video  
 
-> (https://www.youtube.com/watch?v=Daf6X2w5S1M) 
-> In this 2-minute walkthrough, I introduce the dataset, highlight interactive features, and summarize the main findings from the IMDB Top 250 movie analysis.
+> (https://youtu.be/lbzzqHFfRU0) 
+> In this 6-minute walkthrough, I introduce the dataset, highlight interactive features, and summarize the main findings from the IMDB Top 250 movie analysis.
 
 ---
